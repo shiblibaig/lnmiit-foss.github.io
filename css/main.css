@@ -126,6 +126,11 @@ section.module.parallax h1 {
 	font-family: robotox;
 }
 
+#about-us a{
+	text-decoration: none;
+	font-weight: bold;
+}
+
 #logo{
 	position: fixed;
 	width: 120px;
